@@ -1,3 +1,3 @@
 # EjerciciosCanterosFlorencia
 
-3da entrega ejercicios Intec
+3ra entrega ejercicios Intec
